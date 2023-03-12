@@ -15,6 +15,8 @@ JMGPT는 JM(재미)GPT 이면서 제 이름인 JM(정명)GPT를 의미합니다.
 
 - telegram 검색 : ```JMGPT```
 - 링크 : https://t.me/JMGPT_bot
+- 한 달간 총 요청은 100회로 제한되며, 이미지 생성 요청은 10회로 제한됩니다.
+- 더 많은 요청이 필요하면 issue에 등록바랍니다.
 
 # Contents
 ### 대화
